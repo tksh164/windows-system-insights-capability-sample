@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCapabilitySample", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForecastingCapabilitySample", "ForecastingCapabilitySample\ForecastingCapabilitySample.csproj", "{078D0F57-EBF5-465B-BC68-2BB105072603}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnomalyDetectionCapabilitySample", "AnomalyDetectionCapabilitySample\AnomalyDetectionCapabilitySample.csproj", "{2C7A2086-99E9-41E5-B2E8-9C9F8AD7D720}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{078D0F57-EBF5-465B-BC68-2BB105072603}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{078D0F57-EBF5-465B-BC68-2BB105072603}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{078D0F57-EBF5-465B-BC68-2BB105072603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7A2086-99E9-41E5-B2E8-9C9F8AD7D720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7A2086-99E9-41E5-B2E8-9C9F8AD7D720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7A2086-99E9-41E5-B2E8-9C9F8AD7D720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7A2086-99E9-41E5-B2E8-9C9F8AD7D720}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
