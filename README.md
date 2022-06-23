@@ -1,1 +1,1 @@
-# windows-system-insights-sample
+# Windows System Insights capability sample
