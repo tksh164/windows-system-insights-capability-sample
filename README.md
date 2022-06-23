@@ -1,6 +1,6 @@
 # Windows System Insights capability sample
 
-This sample based on [System Insights sample capability](https://github.com/Microsoft/Windows-classic-samples/tree/main/Samples/SystemInsights).
+This sample is based on [System Insights sample capability](https://github.com/Microsoft/Windows-classic-samples/tree/main/Samples/SystemInsights).
 
 ## License
 
